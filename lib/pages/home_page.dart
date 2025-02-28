@@ -81,7 +81,7 @@ class _HomePageState extends State<HomePage> {
               crossAxisAlignment: CrossAxisAlignment.center,
               children: <Widget>[
                 Icon(Icons.flutter_dash),
-                Text("Welcome to Siri AI"),
+                Text("Welcome to Cine Creators"),
                 SizedBox(
                   height: 20,
                 ),
